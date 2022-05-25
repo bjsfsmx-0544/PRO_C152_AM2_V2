@@ -1,4 +1,4 @@
-// Registering components
+// Registrando componentes
 AFRAME.registerComponent("move", {
   schema: {
     moveY: { type: "number", default: 1 },
