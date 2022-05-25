@@ -1,4 +1,4 @@
-// Registering component in box-component.js
+// Registrando el componente en box-component.js
 AFRAME.registerComponent('move-box-on-click', {
   schema: {
     moveX: { type: "number", default: 0 },
